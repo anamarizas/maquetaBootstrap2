@@ -8,7 +8,7 @@ body{
     
 }
 header{
-    background-color: darkslateblue;
+    background-color: darkred;
     height: 5rem;
 }
 nav{
@@ -23,6 +23,7 @@ section{
 article{
     background-color: purple;
     height: 7rem;
+    
 }
 aside{
     background-color: rgb(155, 106, 122);
